@@ -1,0 +1,28 @@
+! vim: ft=xdefaults
+
+*background: #3f3f3f
+*foreground: #dcdccc
+
+*cursorColor: #8faf9f
+*pointerColor: #8faf9f
+
+*highlightColor: #233323
+*highlightTextColor: #ffffe0
+
+*color0:  #282828
+*color1:  #cc9393
+*color2:  #7f9f7f
+*color3:  #dfaf8f
+*color4:  #8c9cbd
+*color5:  #dc8cc3
+*color6:  #8cd0d3
+*color7:  #dcdccc
+
+*color8:  #737b79
+*color9:  #e89393
+*color10: #a3c8a3
+*color11: #f2d9a0
+*color12: #9cdbdf
+*color13: #e0b0d0
+*color14: #a8c5c5
+*color15: #ffffff
